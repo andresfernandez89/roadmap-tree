@@ -4,9 +4,19 @@
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<title>Skill Tree</title>
-		<script src="./skill-tree.js"></script>
+		<link rel="stylesheet" href="./assets/vendor/Treant.css" />
+		<link rel="stylesheet" href="styles.css" />
+		<script src="./assets/vendor/raphael.js"></script>
+		<script src="./assets/vendor/Treant.js"></script>
+		<script defer type="module" src="skill-tree.js"></script>
 	</head>
 	<body>
+		<h1>Skills Tree</h1>
+		<nav id="roadmaps">
+			<button id="design">Design</button>
+			<button id="coordination">Coordination</button>
+			<button id="frontend">Front End</button>
+		</nav>
 		<div class="chart" id="skill-tree"></div>
 	</body>
 </html>
