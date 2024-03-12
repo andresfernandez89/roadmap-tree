@@ -1,0 +1,184 @@
+[
+	{
+		"text": {
+			"name": "Figma Basic"
+		},
+		"resources": [
+			{
+				"title": "Uso de Figma",
+				"link": "https://www_udemy_com/course/figma-diseno-de-prototipos-desde-cero/",
+				"tracking": "La plataforma de Udemy te muestra si completaste la sección",
+				"language": "Español"
+			}
+		],
+		"requirements": ["Manejo básico de una computadora y un browser"]
+	},
+	{
+		"text": {
+			"name": "Canva Basic"
+		},
+		"resources": [
+			{
+				"title": "Uso de Canva",
+				"link": "https://hotmart_com/es/blog/canva-tutorial",
+				"tracking": "No tiene",
+				"language": "Español"
+			}
+		],
+		"requirements": ["Manejo básico de una computadora y un browser"]
+	},
+	{
+		"text": {
+			"name": "Dafont"
+		},
+		"resources": [
+			{
+				"title": "Aprender a descargar fuentes",
+				"link": "https://archive_ph/qVuKb",
+				"tracking": "No tiene",
+				"language": "Español"
+			}
+		],
+		"requirements": ["Manejo básico de una computadora y un browser"]
+	},
+	{
+		"text": {
+			"name": "Teoría de colores"
+		},
+		"resources": [
+			{
+				"title": "Aprender teoría de colores",
+				"link": "https://www_crehana_com/blog/estilo-vida/que-es-teoria-color/",
+				"tracking": "No tiene",
+				"language": "Español"
+			}
+		],
+		"requirements": ["Manejo básico de una computadora y un browser"]
+	},
+	{
+		"text": {
+			"name": "Morfología Diseño - Puntos"
+		},
+		"resources": [
+			{
+				"title": "Introducción a la morfología - Puntos",
+				"link": "https://www_youtube_com/watch?v=RFyJTdODheY",
+				"tracking": "No tiene",
+				"language": "Español"
+			}
+		],
+		"requirements": ["Manejo básico de una computadora y un browser"]
+	},
+	{
+		"text": {
+			"name": "Morfología Diseño - Línea"
+		},
+		"resources": [
+			{
+				"title": "Introducción a la morfología - Línea",
+				"link": "https://youtube_com/watch?v=8Odq7P7kwRI",
+				"tracking": "No tiene",
+				"language": "Español"
+			}
+		],
+		"requirements": ["Morfología Diseño - Puntos"]
+	},
+	{
+		"text": {
+			"name": "Morfología Diseño - Plano"
+		},
+		"resources": [
+			{
+				"title": "Introducción a la morfología - Plano",
+				"link": "https://www_youtube_com/watch?v=So_tD_7yXGw",
+				"tracking": "No tiene",
+				"language": "Español"
+			}
+		],
+		"requirements": ["Morfología Diseño - Línea"]
+	},
+	{
+		"text": {
+			"name": "Composición-1"
+		},
+		"resources": [
+			{
+				"title": "Principios de composición visual - Parte 1",
+				"link": "https://www_youtube_com/watch?v=rHKTFYsH9GQ",
+				"tracking": "No tiene",
+				"language": "Español"
+			}
+		],
+		"requirements": ["Manejo básico de una computadora y un browser"]
+	},
+	{
+		"text": {
+			"name": "Composición-2"
+		},
+		"resources": [
+			{
+				"title": "Principios de composición visual - Parte 2",
+				"link": "https://www_youtube_com/watch?v=eIaQa2uesiE",
+				"tracking": "No tiene",
+				"language": "Español"
+			}
+		],
+		"requirements": ["Composición-1"]
+	},
+	{
+		"text": {
+			"name": "Composición-3"
+		},
+		"resources": [
+			{
+				"title": "Estructura de la composición visual",
+				"link": "https://www_youtube_com/watch?v=8_IXipFaFx8",
+				"tracking": "No tiene",
+				"language": "Español"
+			}
+		],
+		"requirements": ["Composición-2"]
+	},
+	{
+		"text": {
+			"name": "Composición-Grilla"
+		},
+		"resources": [
+			{
+				"title": "Composición visual con grillas",
+				"link": "https://www_youtube_com/watch?v=iPkwZnL1gdY",
+				"tracking": "No tiene",
+				"language": "Español"
+			}
+		],
+		"requirements": ["Composición-3"]
+	},
+	{
+		"text": {
+			"name": "Gestalt"
+		},
+		"resources": [
+			{
+				"title": "Leyes básica de Gestalt",
+				"link": "https://www_youtube_com/watch?v=DxL-Pw0lc_g",
+				"tracking": "No tiene",
+				"language": "Español"
+			}
+		],
+		"requirements": ["Manejo básico de una computadora y un browser"]
+	},
+	{
+		"text": {
+			"name": "Jerarquías"
+		},
+		"resources": [
+			{
+				"title": "Jerarquía visual",
+				"link": "https://www_youtube_com/watch?v=_F4MTXXydWA",
+				"tracking": "No tiene",
+				"language": "Español"
+			}
+		],
+		"requirements": ["Manejo básico de una computadora y un browser"]
+	}
+]
