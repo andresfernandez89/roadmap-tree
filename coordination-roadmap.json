@@ -1,0 +1,309 @@
+[
+	{
+		"text": {
+			"name": "Comprensión básica del marco de trabajo scrum"
+		},
+		"resources": [
+			{
+				"title": "Recursos útiles para empezar - The scrum guide",
+				"tracking": "No tiene",
+				"language": "Inglés"
+			}
+		],
+		"requirements": ["Manejo básico de una computadora y un navegador"]
+	},
+	{
+		"text": {
+			"name": "Comprensión básica de los valores y principios del desarrollo ágil"
+		},
+		"resources": [
+			{
+				"title": "Recursos útiles para empezar - The scrum guide",
+				"tracking": "No tiene",
+				"language": "Inglés"
+			}
+		],
+		"requirements": ["Manejo básico de una computadora y un navegador"]
+	},
+	{
+		"text": {
+			"name": "Comprensión básica del marco de trabajo scrum"
+		},
+		"resources": [
+			{
+				"title": "Recursos útiles para empezar - Project management institute",
+				"tracking": "No tiene",
+				"language": "Inglés"
+			}
+		],
+		"requirements": ["Manejo básico de una computadora y un navegador"]
+	},
+	{
+		"text": {
+			"name": "Comprensión básica de los valores y principios del desarrollo ágil"
+		},
+		"resources": [
+			{
+				"title": "Recursos útiles para empezar - Project management institute",
+				"tracking": "No tiene",
+				"language": "Inglés"
+			}
+		],
+		"requirements": ["Manejo básico de una computadora y un navegador"]
+	},
+	{
+		"text": {
+			"name": "Comprensión básica del marco de trabajo scrum"
+		},
+		"resources": [
+			{
+				"title": "Recursos útiles para empezar - Agile manifiesto",
+				"tracking": "No tiene",
+				"language": "Español"
+			}
+		],
+		"requirements": ["Manejo básico de una computadora y un navegador"]
+	},
+	{
+		"text": {
+			"name": "Comprensión básica de los valores y principios del desarrollo ágil"
+		},
+		"resources": [
+			{
+				"title": "Recursos útiles para empezar - Agile manifiesto",
+				"tracking": "No tiene",
+				"language": "Español"
+			}
+		],
+		"requirements": ["Manejo básico de una computadora y un navegador"]
+	},
+	{
+		"text": {
+			"name": "Conocimiento del concepto de la gestión de proyectos y de un proyecto en sí"
+		},
+		"resources": [
+			{
+				"title": "Definir conceptos básicos de la gestión de proyectos - What is project management",
+				"tracking": "La plataforma de Coursera te muestra si completaste la sección",
+				"language": "Inglés"
+			}
+		],
+		"requirements": [
+			"Comprensión básica del marco de trabajo scrum",
+			"Comprensión básica de los valores y principios del desarrollo ágil"
+		]
+	},
+	{
+		"text": {
+			"name": "Conocimiento de la importancia de la gestión de proyectos para una organización"
+		},
+		"resources": [
+			{
+				"title": "Definir conceptos básicos de la gestión de proyectos - What is project management",
+				"tracking": "La plataforma de Coursera te muestra si completaste la sección",
+				"language": "Inglés"
+			}
+		],
+		"requirements": [
+			"Comprensión básica del marco de trabajo scrum",
+			"Comprensión básica de los valores y principios del desarrollo ágil"
+		]
+	},
+	{
+		"text": {
+			"name": "Conocimiento sobre las habilidades y responsabilidades de un director de proyectos"
+		},
+		"resources": [
+			{
+				"title": "¿Qué hace un director de proyectos o project manager? - What does a project manager do",
+				"tracking": "La plataforma de Coursera te muestra si completaste la sección",
+				"language": "Inglés"
+			}
+		],
+		"requirements": [
+			"Conocimiento del concepto de la gestión de proyectos y de un proyecto en sí",
+			"Conocimiento de la importancia de la gestión de proyectos para una organización"
+		]
+	},
+	{
+		"text": {
+			"name": "Comprensión de la importancia de tener habilidades adquiridas en una industria y aplicarlas en otra"
+		},
+		"resources": [
+			{
+				"title": "Habilidades transferibles en la gestión de proyectos - Transferable project management skills",
+				"tracking": "La plataforma de Coursera te muestra si completaste la sección",
+				"language": "Inglés"
+			}
+		],
+		"requirements": [
+			"Conocimiento sobre las habilidades y responsabilidades de un director de proyectos"
+		]
+	},
+	{
+		"text": {
+			"name": "Conocimiento sobre los tipos de roles y categorías de trabajo más comunes como director de proyectos"
+		},
+		"resources": [
+			{
+				"title": "Tipos de empleos o roles para los cuales podrías estar calificado como director de proyectos - From certificate to career success",
+				"tracking": "La plataforma de Coursera te muestra si completaste la sección",
+				"language": "Inglés"
+			}
+		],
+		"requirements": [
+			"Comprensión de la importancia de tener habilidades adquiridas en una industria y aplicarlas en otra"
+		]
+	},
+	{
+		"text": {
+			"name": "Conocimiento sobre los roles de gestión de proyectos específicos de una industria"
+		},
+		"resources": [
+			{
+				"title": "Tipos de empleos o roles para los cuales podrías estar calificado como director de proyectos - From certificate to career success",
+				"tracking": "La plataforma de Coursera te muestra si completaste la sección",
+				"language": "Inglés"
+			}
+		],
+		"requirements": [
+			"Comprensión de la importancia de tener habilidades adquiridas en una industria y aplicarlas en otra"
+		]
+	},
+	{
+		"text": {
+			"name": "Conocimiento sobre los tipos de roles y categorías de trabajo más comunes como director de proyectos"
+		},
+		"resources": [
+			{
+				"title": "Tipos de empleos o roles para los cuales podrías estar calificado como director de proyectos - Explore project management roles",
+				"tracking": "La plataforma de Coursera te muestra si completaste la sección",
+				"language": "Inglés"
+			}
+		],
+		"requirements": [
+			"Comprensión de la importancia de tener habilidades adquiridas en una industria y aplicarlas en otra"
+		]
+	},
+	{
+		"text": {
+			"name": "Conocimiento sobre los roles de gestión de proyectos específicos de una industria"
+		},
+		"resources": [
+			{
+				"title": "Tipos de empleos o roles para los cuales podrías estar calificado como director de proyectos - Explore project management roles",
+				"tracking": "La plataforma de Coursera te muestra si completaste la sección",
+				"language": "Inglés"
+			}
+		],
+		"requirements": [
+			"Comprensión de la importancia de tener habilidades adquiridas en una industria y aplicarlas en otra"
+		]
+	},
+	{
+		"text": {
+			"name": "Conocimiento sobre los tipos de roles y categorías de trabajo más comunes como director de proyectos"
+		},
+		"resources": [
+			{
+				"title": "Tipos de empleos o roles para los cuales podrías estar calificado como director de proyectos - Finding the perfect role",
+				"tracking": "La plataforma de Coursera te muestra si completaste la sección",
+				"language": "Inglés"
+			}
+		],
+		"requirements": [
+			"Comprensión de la importancia de tener habilidades adquiridas en una industria y aplicarlas en otra"
+		]
+	},
+	{
+		"text": {
+			"name": "Conocimiento sobre los roles de gestión de proyectos específicos de una industria"
+		},
+		"resources": [
+			{
+				"title": "Tipos de empleos o roles para los cuales podrías estar calificado como director de proyectos - Finding the perfect role",
+				"tracking": "La plataforma de Coursera te muestra si completaste la sección",
+				"language": "Inglés"
+			}
+		],
+		"requirements": [
+			"Comprensión de la importancia de tener habilidades adquiridas en una industria y aplicarlas en otra"
+		]
+	},
+	{
+		"text": {
+			"name": "Conocimiento sobre los tipos de roles y categorías de trabajo más comunes como director de proyectos"
+		},
+		"resources": [
+			{
+				"title": "Tipos de empleos o roles para los cuales podrías estar calificado como director de proyectos - Career goals and next steps",
+				"tracking": "La plataforma de Coursera te muestra si completaste la sección",
+				"language": "Inglés"
+			}
+		],
+		"requirements": [
+			"Comprensión de la importancia de tener habilidades adquiridas en una industria y aplicarlas en otra"
+		]
+	},
+	{
+		"text": {
+			"name": "Conocimiento sobre los roles de gestión de proyectos específicos de una industria"
+		},
+		"resources": [
+			{
+				"title": "Tipos de empleos o roles para los cuales podrías estar calificado como director de proyectos - Career goals and next steps",
+				"tracking": "La plataforma de Coursera te muestra si completaste la sección",
+				"language": "Inglés"
+			}
+		],
+		"requirements": [
+			"Comprensión de la importancia de tener habilidades adquiridas en una industria y aplicarlas en otra"
+		]
+	},
+	{
+		"text": {
+			"name": "Conocimiento sobre los tipos de roles y categorías de trabajo más comunes como director de proyectos"
+		},
+		"resources": [
+			{
+				"title": "Tipos de empleos o roles para los cuales podrías estar calificado como director de proyectos - Using buzzwords in your job search",
+				"tracking": "La plataforma de Coursera te muestra si completaste la sección",
+				"language": "Inglés"
+			}
+		],
+		"requirements": [
+			"Comprensión de la importancia de tener habilidades adquiridas en una industria y aplicarlas en otra"
+		]
+	},
+	{
+		"text": {
+			"name": "Conocimiento sobre los roles de gestión de proyectos específicos de una industria"
+		},
+		"resources": [
+			{
+				"title": "Tipos de empleos o roles para los cuales podrías estar calificado como director de proyectos - Using buzzwords in your job search",
+				"tracking": "La plataforma de Coursera te muestra si completaste la sección",
+				"language": "Inglés"
+			}
+		],
+		"requirements": [
+			"Comprensión de la importancia de tener habilidades adquiridas en una industria y aplicarlas en otra"
+		]
+	},
+	{
+		"text": {
+			"name": "Conocimiento integral del módulo I, del curso: Fundamentos de la gestión de proyectos, by Google"
+		},
+		"resources": [
+			{
+				"title": "Resumen del módulo I",
+				"tracking": "La plataforma de Coursera te muestra si completaste la sección",
+				"language": "Inglés"
+			}
+		],
+		"requirements": [
+			"Conocimiento sobre los tipos de roles y categorías de trabajo más comunes como director de proyectos",
+			"Conocimiento sobre los roles de gestión de proyectos específicos de una industria"
+		]
+	}
+]
