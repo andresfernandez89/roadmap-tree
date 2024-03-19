@@ -1,8 +1,7 @@
 [
 	{
-		"text": {
-			"name": "Figma Basic"
-		},
+		"skill": "Figma Basic",
+		"requirements": ["Manejo básico de una computadora y un browser"],
 		"resources": [
 			{
 				"title": "Uso de Figma",
@@ -10,13 +9,11 @@
 				"tracking": "La plataforma de Udemy te muestra si completaste la sección",
 				"language": "Español"
 			}
-		],
-		"requirements": ["Manejo básico de una computadora y un browser"]
+		]
 	},
 	{
-		"text": {
-			"name": "Canva Basic"
-		},
+		"skill": "Canva Basic",
+		"requirements": ["Manejo básico de una computadora y un browser"],
 		"resources": [
 			{
 				"title": "Uso de Canva",
@@ -24,13 +21,11 @@
 				"tracking": "No tiene",
 				"language": "Español"
 			}
-		],
-		"requirements": ["Manejo básico de una computadora y un browser"]
+		]
 	},
 	{
-		"text": {
-			"name": "Dafont"
-		},
+		"skill": "Dafont",
+		"requirements": ["Manejo básico de una computadora y un browser"],
 		"resources": [
 			{
 				"title": "Aprender a descargar fuentes",
@@ -38,13 +33,11 @@
 				"tracking": "No tiene",
 				"language": "Español"
 			}
-		],
-		"requirements": ["Manejo básico de una computadora y un browser"]
+		]
 	},
 	{
-		"text": {
-			"name": "Teoría de colores"
-		},
+		"skill": "Teoría de colores",
+		"requirements": ["Manejo básico de una computadora y un browser"],
 		"resources": [
 			{
 				"title": "Aprender teoría de colores",
@@ -52,13 +45,11 @@
 				"tracking": "No tiene",
 				"language": "Español"
 			}
-		],
-		"requirements": ["Manejo básico de una computadora y un browser"]
+		]
 	},
 	{
-		"text": {
-			"name": "Morfología Diseño - Puntos"
-		},
+		"skill": "Morfología Diseño - Puntos",
+		"requirements": ["Manejo básico de una computadora y un browser"],
 		"resources": [
 			{
 				"title": "Introducción a la morfología - Puntos",
@@ -66,13 +57,11 @@
 				"tracking": "No tiene",
 				"language": "Español"
 			}
-		],
-		"requirements": ["Manejo básico de una computadora y un browser"]
+		]
 	},
 	{
-		"text": {
-			"name": "Morfología Diseño - Línea"
-		},
+		"skill": "Morfología Diseño - Línea",
+		"requirements": ["Morfología Diseño - Puntos"],
 		"resources": [
 			{
 				"title": "Introducción a la morfología - Línea",
@@ -80,13 +69,11 @@
 				"tracking": "No tiene",
 				"language": "Español"
 			}
-		],
-		"requirements": ["Morfología Diseño - Puntos"]
+		]
 	},
 	{
-		"text": {
-			"name": "Morfología Diseño - Plano"
-		},
+		"skill": "Morfología Diseño - Plano",
+		"requirements": ["Morfología Diseño - Línea"],
 		"resources": [
 			{
 				"title": "Introducción a la morfología - Plano",
@@ -94,13 +81,11 @@
 				"tracking": "No tiene",
 				"language": "Español"
 			}
-		],
-		"requirements": ["Morfología Diseño - Línea"]
+		]
 	},
 	{
-		"text": {
-			"name": "Composición-1"
-		},
+		"skill": "Composición-1",
+		"requirements": ["Manejo básico de una computadora y un browser"],
 		"resources": [
 			{
 				"title": "Principios de composición visual - Parte 1",
@@ -108,13 +93,11 @@
 				"tracking": "No tiene",
 				"language": "Español"
 			}
-		],
-		"requirements": ["Manejo básico de una computadora y un browser"]
+		]
 	},
 	{
-		"text": {
-			"name": "Composición-2"
-		},
+		"skill": "Composición-2",
+		"requirements": ["Composición-1"],
 		"resources": [
 			{
 				"title": "Principios de composición visual - Parte 2",
@@ -122,13 +105,11 @@
 				"tracking": "No tiene",
 				"language": "Español"
 			}
-		],
-		"requirements": ["Composición-1"]
+		]
 	},
 	{
-		"text": {
-			"name": "Composición-3"
-		},
+		"skill": "Composición-3",
+		"requirements": ["Composición-2"],
 		"resources": [
 			{
 				"title": "Estructura de la composición visual",
@@ -136,13 +117,11 @@
 				"tracking": "No tiene",
 				"language": "Español"
 			}
-		],
-		"requirements": ["Composición-2"]
+		]
 	},
 	{
-		"text": {
-			"name": "Composición-Grilla"
-		},
+		"skill": "Composición-Grilla",
+		"requirements": ["Composición-3"],
 		"resources": [
 			{
 				"title": "Composición visual con grillas",
@@ -150,13 +129,11 @@
 				"tracking": "No tiene",
 				"language": "Español"
 			}
-		],
-		"requirements": ["Composición-3"]
+		]
 	},
 	{
-		"text": {
-			"name": "Gestalt"
-		},
+		"skill": "Gestalt",
+		"requirements": ["Manejo básico de una computadora y un browser"],
 		"resources": [
 			{
 				"title": "Leyes básica de Gestalt",
@@ -164,13 +141,11 @@
 				"tracking": "No tiene",
 				"language": "Español"
 			}
-		],
-		"requirements": ["Manejo básico de una computadora y un browser"]
+		]
 	},
 	{
-		"text": {
-			"name": "Jerarquías"
-		},
+		"skill": "Jerarquías",
+		"requirements": ["Manejo básico de una computadora y un browser"],
 		"resources": [
 			{
 				"title": "Jerarquía visual",
@@ -178,7 +153,6 @@
 				"tracking": "No tiene",
 				"language": "Español"
 			}
-		],
-		"requirements": ["Manejo básico de una computadora y un browser"]
+		]
 	}
 ]

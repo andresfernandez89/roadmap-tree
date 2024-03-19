@@ -1,36 +1,25 @@
 [
 	{
-		"text": {
-			"name": "Conocimientos básicos de programación"
-		},
+		"skill": "Conocimientos básicos de programación",
+		"requirements": ["Manejo básico de una computadora y un navegador"],
 		"resources": [
 			{
 				"title": "CS50: Week 0 Scratch (EDX)",
 				"link": "https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home",
 				"tracking": "La plataforma de edX chequea si completaste la tarea de la clase de forma correcta",
 				"language": "Inglés"
-			}
-		],
-		"requirements": ["Manejo básico de una computadora y un navegador"]
-	},
-	{
-		"text": {
-			"name": "Conocimientos básicos de programación"
-		},
-		"resources": [
+			},
 			{
 				"title": "CS50: Week 0 Scratch (Youtube)",
 				"link": "https://www.youtube.com/playlist?list=PLhQjrBD2T382v3ivzfqV_XtNMhREadjAr",
 				"tracking": "No tiene",
 				"language": "Inglés, subtítulos en español"
 			}
-		],
-		"requirements": ["Manejo básico de una computadora y un navegador"]
+		]
 	},
 	{
-		"text": {
-			"name": "Pedir ayuda de forma efectiva en un foro"
-		},
+		"skill": "Pedir ayuda de forma efectiva en un foro",
+		"requirements": ["Manejo básico de una computadora y un navegador"],
 		"resources": [
 			{
 				"title": "Cómo pedir ayuda de manera efectiva y evitar el problema XY",
@@ -38,41 +27,29 @@
 				"tracking": "No tiene",
 				"language": "Español"
 			}
-		],
-		"requirements": ["Manejo básico de una computadora y un navegador"]
+		]
 	},
 	{
-		"text": {
-			"name": "Introducción a la programación"
-		},
+		"skill": "Introducción a la programación",
+		"requirements": ["Pedir ayuda de forma efectiva en un foro"],
 		"resources": [
 			{
 				"title": "Familiarízate con los principios básicos de la programación",
 				"link": "https://skillshop.exceedlms.com/student/collection/668989",
 				"tracking": "La plataforma de Google Courses te muestra si completaste la sección",
 				"language": "Español"
-			}
-		],
-		"requirements": ["Pedir ayuda de forma efectiva en un foro"]
-	},
-	{
-		"text": {
-			"name": "Introducción a la programación"
-		},
-		"resources": [
+			},
 			{
 				"title": "Introducción a la programación",
 				"link": "https://learn.microsoft.com/es-es/training/modules/web-development-101-introduction-programming/",
 				"tracking": "La plataforma de Microsoft Learning te muestra si completaste la sección",
 				"language": "Español"
 			}
-		],
-		"requirements": ["Pedir ayuda de forma efectiva en un foro"]
+		]
 	},
 	{
-		"text": {
-			"name": "Conocimiento de qué es una IDE, por qué es importante usar uno y cuáles son los más usadas"
-		},
+		"skill": "Conocimiento de qué es una IDE, por qué es importante usar uno y cuáles son los más usadas",
+		"requirements": ["Introducción a la programación"],
 		"resources": [
 			{
 				"title": "¿Qué es un IDE?",
@@ -80,13 +57,11 @@
 				"tracking": "No tiene",
 				"language": "Inglés"
 			}
-		],
-		"requirements": ["Introducción a la programación"]
+		]
 	},
 	{
-		"text": {
-			"name": "Manejo de Visual Studio Code"
-		},
+		"skill": "Manejo de Visual Studio Code",
+		"requirements": ["Introducción a la programación"],
 		"resources": [
 			{
 				"title": "Editor de código: Visual Studio Code",
@@ -94,13 +69,14 @@
 				"tracking": "La plataforma de Udemy te muestra si completaste la sección",
 				"language": "Español"
 			}
-		],
-		"requirements": ["Introducción a la programación"]
+		]
 	},
 	{
-		"text": {
-			"name": "Markdown"
-		},
+		"skill": "Markdown",
+		"requirements": [
+			"Manejo de Visual Studio Code",
+			"Conocimiento de qué es una IDE, por qué es importante usar uno y cuáles son los más usadas"
+		],
 		"resources": [
 			{
 				"title": "Aprenda markdown desde cero",
@@ -108,16 +84,11 @@
 				"tracking": "La plataforma de Udemy te muestra si completaste la sección",
 				"language": "Español"
 			}
-		],
-		"requirements": [
-			"Manejo de Visual Studio Code",
-			"Conocimiento de qué es una IDE, por qué es importante usar uno y cuáles son los más usadas"
 		]
 	},
 	{
-		"text": {
-			"name": "Git y GitHub"
-		},
+		"skill": "Git y GitHub",
+		"requirements": ["Markdown"],
 		"resources": [
 			{
 				"title": "Primeros pasos con GIT Y GitHub (Módulo 1 y 2)",
@@ -125,41 +96,59 @@
 				"tracking": "La plataforma de Coursera te muestra si completaste la sección",
 				"language": "Inglés, subtítulos en español"
 			}
-		],
-		"requirements": ["Markdown"]
+		]
 	},
 	{
-		"text": {
-			"name": "HTML5"
-		},
+		"skill": "HTML5",
+		"requirements": ["Git y GitHub"],
 		"resources": [
 			{
 				"title": "Introducción a HTML5",
 				"link": "https://www.coursera.org/learn/html/home/week/1",
 				"tracking": "La plataforma de Coursera te muestra si completaste la sección",
 				"language": "Inglés, subtítulos en español"
+			},
+			{
+				"title": "Learn HTML and CSS",
+				"link": "https://scrimba.com/learn/htmlandcss",
+				"tracking": "La plataforma de Scrimba te muestra el progreso de cada video",
+				"language": "Inglés"
+			},
+			{
+				"title": "HTML y CSS",
+				"link": "https://www.freecodecamp.org/learn/2022/responsive-web-design/",
+				"tracking": "FreeCodeCamp trackea las tareas completadas",
+				"language": "Inglés"
 			}
-		],
-		"requirements": ["Git y GitHub"]
+		]
 	},
 	{
-		"text": {
-			"name": "CSS3"
-		},
+		"skill": "CSS3",
+		"requirements": ["HTML5"],
 		"resources": [
 			{
 				"title": "Introducción a CSS3",
 				"link": "https://www.coursera.org/learn/introcss",
 				"tracking": "La plataforma de Coursera te muestra si completaste la sección",
 				"language": "Inglés, subtítulos en español"
+			},
+			{
+				"title": "Learn HTML and CSS",
+				"link": "https://scrimba.com/learn/htmlandcss",
+				"tracking": "La plataforma de Scrimba te muestra el progreso de cada video",
+				"language": "Inglés"
+			},
+			{
+				"title": "HTML y CSS",
+				"link": "https://www.freecodecamp.org/learn/2022/responsive-web-design/",
+				"tracking": "FreeCodeCamp trackea las tareas completadas",
+				"language": "Inglés"
 			}
-		],
-		"requirements": ["HTML5"]
+		]
 	},
 	{
-		"text": {
-			"name": "Flexbox CSS"
-		},
+		"skill": "Flexbox CSS",
+		"requirements": ["CSS3"],
 		"resources": [
 			{
 				"title": "Flexbox en CSS",
@@ -167,125 +156,41 @@
 				"tracking": "Cuenta con ejercicios, pero no es trackeable",
 				"language": "Inglés"
 			}
-		],
-		"requirements": ["CSS3"]
+		]
 	},
 	{
-		"text": {
-			"name": "HTML5"
-		},
-		"resources": [
-			{
-				"title": "Learn HTML and CSS",
-				"link": "https://scrimba.com/learn/htmlandcss",
-				"tracking": "La plataforma de Scrimba te muestra el progreso de cada video",
-				"language": "Inglés"
-			}
-		],
-		"requirements": ["Git y GitHub"]
-	},
-	{
-		"text": {
-			"name": "CSS3"
-		},
-		"resources": [
-			{
-				"title": "Learn HTML and CSS",
-				"link": "https://scrimba.com/learn/htmlandcss",
-				"tracking": "La plataforma de Scrimba te muestra el progreso de cada video",
-				"language": "Inglés"
-			}
-		],
-		"requirements": ["Git y GitHub"]
-	},
-	{
-		"text": {
-			"name": "HTML5"
-		},
-		"resources": [
-			{
-				"title": "HTML y CSS",
-				"link": "https://www.freecodecamp.org/learn/2022/responsive-web-design/",
-				"tracking": "FreeCodeCamp trackea las tareas completadas",
-				"language": "Inglés"
-			}
-		],
-		"requirements": ["Git y GitHub"]
-	},
-	{
-		"text": {
-			"name": "CSS3"
-		},
-		"resources": [
-			{
-				"title": "HTML y CSS",
-				"link": "https://www.freecodecamp.org/learn/2022/responsive-web-design/",
-				"tracking": "FreeCodeCamp trackea las tareas completadas",
-				"language": "Inglés"
-			}
-		],
-		"requirements": ["Git y GitHub"]
-	},
-	{
-		"text": {
-			"name": "JavaScript"
-		},
+		"skill": "JavaScript",
+		"requirements": ["CSS3"],
 		"resources": [
 			{
 				"title": "Curso de JS de Argentina Programa (No es el curso del gobierno)",
 				"link": "https://argentinaprograma.com/curso-javascript",
 				"tracking": "Las clases cuentan con tareas a realizar una vez terminadas",
 				"language": "Español"
-			}
-		],
-		"requirements": ["CSS3"]
-	},
-	{
-		"text": {
-			"name": "JavaScript"
-		},
-		"resources": [
+			},
 			{
 				"title": "Eloquent JavaScript: A modern introduction to programming",
-				"link": "https://eloquentjavascript.net/",
+				"link": "https://eloquent-javascript-es.vercel.app/",
 				"tracking": "Cada capítulo cuenta con tareas relacionadas al tema que aborda",
-				"language": "Inglés, (17 de 21 capítulos están traducidos al español)"
-			}
-		],
-		"requirements": ["CSS3"]
-	},
-	{
-		"text": {
-			"name": "JavaScript"
-		},
-		"resources": [
+				"language": "Español"
+			},
 			{
 				"title": "JavaScript algorithms and data structures",
 				"link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/",
 				"tracking": "FreeCodeCamp trackea las tareas completadas",
 				"language": "Inglés"
-			}
-		],
-		"requirements": ["CSS3"]
-	},
-	{
-		"text": {
-			"name": "JavaScript"
-		},
-		"resources": [
+			},
 			{
 				"title": "Interactividad con JavaScript",
 				"link": "https://www.coursera.org/learn/javascript",
 				"tracking": "La plataforma de Coursera te muestra si completaste la sección",
 				"language": "Inglés, subtítulos en español"
 			}
-		],
-		"requirements": ["CSS3"]
+		]
 	},
 	{
-		"text": {
-			"name": "React JS"
-		},
+		"skill": "React JS",
+		"requirements": ["JavaScript"],
 		"resources": [
 			{
 				"title": "Conceptos básicos de React",
@@ -293,13 +198,11 @@
 				"tracking": "La plataforma de Coursera te muestra si completaste la sección",
 				"language": "Inglés, subtítulos en español"
 			}
-		],
-		"requirements": ["JavaScript"]
+		]
 	},
 	{
-		"text": {
-			"name": "React JS avanzado"
-		},
+		"skill": "React JS avanzado",
+		"requirements": ["React JS"],
 		"resources": [
 			{
 				"title": "React avanzado",
@@ -307,13 +210,11 @@
 				"tracking": "La plataforma de Coursera te muestra si completaste la sección",
 				"language": "Inglés, subtítulos en español"
 			}
-		],
-		"requirements": ["React JS"]
+		]
 	},
 	{
-		"text": {
-			"name": "TypeScript"
-		},
+		"skill": "TypeScript",
+		"requirements": ["React JS avanzado"],
 		"resources": [
 			{
 				"title": "Compilación de aplicaciones JavaScript con TypeScript",
@@ -321,13 +222,11 @@
 				"tracking": "La plataforma de Microsoft Learning te muestra si completaste la sección",
 				"language": "Inglés, subtítulos en español"
 			}
-		],
-		"requirements": ["React JS avanzado"]
+		]
 	},
 	{
-		"text": {
-			"name": "Next JS"
-		},
+		"skill": "Next JS",
+		"requirements": ["React JS avanzado", "TypeScript"],
 		"resources": [
 			{
 				"title": "Start building with NEXT.JS",
@@ -335,7 +234,6 @@
 				"tracking": "El sitio web oficial de Next.js te muestra si completaste el capítulo",
 				"language": "Inglés"
 			}
-		],
-		"requirements": ["React JS avanzado", "TypeScript"]
+		]
 	}
 ]
